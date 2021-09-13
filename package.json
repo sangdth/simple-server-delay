@@ -1,0 +1,27 @@
+{
+  "name": "simple-server-delay",
+  "description": "Starting point for apps based on the Koa web framework.",
+  "author": {
+    "name": "Sang Dang",
+    "email": "sangdth@gmail.com"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^7.4.0"
+  },
+  "keywords": [
+    "koa",
+    "nodejs",
+    "koajs"
+  ]
+}
