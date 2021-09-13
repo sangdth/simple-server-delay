@@ -1,2 +1,2 @@
 # simple-server-delay
-Created with CodeSandbox
+Simple server to test polling
